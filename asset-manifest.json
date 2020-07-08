@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.609c89a9.chunk.css",
-    "main.js": "/static/js/main.2c86bebd.chunk.js",
+    "main.js": "/static/js/main.1eb2c1f4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.cc827bad.js",
     "static/css/2.0e433876.chunk.css": "/static/css/2.0e433876.chunk.css",
-    "static/js/2.9d66de9d.chunk.js": "/static/js/2.9d66de9d.chunk.js",
+    "static/js/2.ea92c1cd.chunk.js": "/static/js/2.ea92c1cd.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.89cd0088cfc0b9402886441c379e8207.js": "/precache-manifest.89cd0088cfc0b9402886441c379e8207.js",
+    "precache-manifest.048454b51af4d2e3f5fea7eb204937d3.js": "/precache-manifest.048454b51af4d2e3f5fea7eb204937d3.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.9d66de9d.chunk.js.LICENSE.txt": "/static/js/2.9d66de9d.chunk.js.LICENSE.txt",
+    "static/js/2.ea92c1cd.chunk.js.LICENSE.txt": "/static/js/2.ea92c1cd.chunk.js.LICENSE.txt",
     "static/media/WordEdit.scss": "/static/media/delete-page.590dc343.svg",
     "static/media/Folder.scss": "/static/media/add.c6144ed4.svg",
     "static/media/chrome.scss": "/static/media/role-game.6a0c831b.svg"
@@ -16,8 +16,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc827bad.js",
     "static/css/2.0e433876.chunk.css",
-    "static/js/2.9d66de9d.chunk.js",
+    "static/js/2.ea92c1cd.chunk.js",
     "static/css/main.609c89a9.chunk.css",
-    "static/js/main.2c86bebd.chunk.js"
+    "static/js/main.1eb2c1f4.chunk.js"
   ]
 }
