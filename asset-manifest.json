@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.609c89a9.chunk.css",
-    "main.js": "/static/js/main.1eb2c1f4.chunk.js",
+    "main.js": "/static/js/main.25b23ef5.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.cc827bad.js",
     "static/css/2.0e433876.chunk.css": "/static/css/2.0e433876.chunk.css",
     "static/js/2.ea92c1cd.chunk.js": "/static/js/2.ea92c1cd.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.048454b51af4d2e3f5fea7eb204937d3.js": "/precache-manifest.048454b51af4d2e3f5fea7eb204937d3.js",
+    "precache-manifest.7bc38226f506d3b792a6afcbbc90d4c1.js": "/precache-manifest.7bc38226f506d3b792a6afcbbc90d4c1.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.ea92c1cd.chunk.js.LICENSE.txt": "/static/js/2.ea92c1cd.chunk.js.LICENSE.txt",
     "static/media/WordEdit.scss": "/static/media/delete-page.590dc343.svg",
@@ -18,6 +18,6 @@
     "static/css/2.0e433876.chunk.css",
     "static/js/2.ea92c1cd.chunk.js",
     "static/css/main.609c89a9.chunk.css",
-    "static/js/main.1eb2c1f4.chunk.js"
+    "static/js/main.25b23ef5.chunk.js"
   ]
 }
